@@ -1,7 +1,7 @@
 # GitCanvas 🎨
 
 GitCanvas is a Streamlit application that turns your GitHub contribution history into art. 
-No more green squares—visualize your code journey as a galaxy, an 8-bit map, a soundwave, or a comic book hero profile.
+No more green squares, or any monotonous themes... visualize your code journey the way you want to.
 
 ## 🚀 Features
 
